@@ -21,8 +21,8 @@ ID | Length | Description     | Data
 52 | 04     | Category        | 5611
 53 | 03     | Currency        | 360 (IDR)
 58 | 02     | Country         | ID
-59 | 04     | Merchant Name   | XRCE
-60 | 16     | Merchant Region | Kab. Tokyo Kidul
+59 | 04     | Merchant Name   | bijak
+60 | 16     | Merchant Region | Kab. kebumen
 61 | 05     | Postal Code     | 42069
 63 | 04     | Checksum        | 8D6C
 
